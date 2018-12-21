@@ -1,0 +1,16 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Hemlata",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.45.0",
+    "nightwatch": "^0.9.20",
+    "selenium-server": "^3.10.0"
+  }
+}

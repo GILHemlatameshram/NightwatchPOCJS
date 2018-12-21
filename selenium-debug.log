@@ -1,0 +1,35 @@
+14:58:22.864 INFO - Launching a standalone Selenium Server
+14:58:24.529 INFO - Java: Oracle Corporation 25.101-b13
+14:58:24.529 INFO - OS: Windows 7 6.1 amd64
+14:58:24.562 INFO - v2.48.0, with Core v2.48.0. Built from revision 41bccdd
+14:58:24.702 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+14:58:24.702 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+14:58:26.399 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4445/wd/hub
+14:58:26.399 INFO - Selenium Server is up and running
+14:58:27.261 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Demo, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[disable-web-security, ignore-certificate-errors, --test-type]}, platform=ANY}]])
+14:58:27.301 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Demo, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[disable-web-security, ignore-certificate-errors, --test-type]}, platform=ANY}]
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 28258
+Only local connections are allowed.
+14:58:34.201 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Demo, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[disable-web-security, ignore-certificate-errors, --test-type]}, platform=ANY}]]
+14:58:34.265 INFO - Executing: [get: http://www.google.com])
+14:58:37.213 INFO - Done: [get: http://www.google.com]
+14:58:37.245 INFO - Executing: [find elements: By.cssSelector: body])
+14:58:37.360 INFO - Done: [find elements: By.cssSelector: body]
+14:58:37.415 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: body]])
+14:58:37.493 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: body]]
+14:58:37.510 INFO - Executing: [get title])
+14:58:37.535 INFO - Done: [get title]
+14:58:37.558 INFO - Executing: [find element: By.cssSelector: input[type=text]])
+14:58:37.737 INFO - Done: [find element: By.cssSelector: input[type=text]]
+14:58:37.762 INFO - Executing: [is displayed: 1 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: input[type=text]]])
+14:58:37.867 INFO - Done: [is displayed: 1 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: input[type=text]]]
+14:58:37.874 INFO - Executing: [find element: By.cssSelector: input[type=text]])
+14:58:37.899 INFO - Done: [find element: By.cssSelector: input[type=text]]
+14:58:37.914 INFO - Executing: [send keys: 1 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: input[type=text]], [n, i, g, h, t, w, a, t, c, h, j, s]])
+14:58:38.227 INFO - Done: [send keys: 1 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: input[type=text]], [n, i, g, h, t, w, a, t, c, h, j, s]]
+14:58:38.237 INFO - Executing: [find element: By.cssSelector: input[type=submit]])
+14:58:38.289 INFO - Done: [find element: By.cssSelector: input[type=submit]]
+14:58:38.299 INFO - Executing: [click: 2 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: input[type=submit]]])
+14:58:41.058 INFO - Done: [click: 2 [[ChromeDriver: chrome on XP (d4e42e994d8af6f4369c6d9f766b3264)] -> css selector: input[type=submit]]]
+14:58:42.078 INFO - Executing: [delete session: 598ebeaf-1c66-4a51-8ebe-0f7f479f723a])
+14:58:44.742 INFO - Done: [delete session: 598ebeaf-1c66-4a51-8ebe-0f7f479f723a]
